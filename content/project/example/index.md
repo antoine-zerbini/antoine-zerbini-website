@@ -23,4 +23,4 @@ summary: 2nd year undergraduate course (full year unit) introducing students to 
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
-
+---
