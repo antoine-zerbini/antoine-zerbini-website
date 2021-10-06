@@ -25,16 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - course: PhD in Political Science
-      institution: London School of Economics and Political Science
-      url: https://www.lse.ac.uk/government
-      year: 2019 - 2024
-    - course: MSc Political Science and Political Economy
-      institution: London School of Economics and Political Science
-      year: 2018
-    - course: BSc Economics and Statistics
-      institution: University College London
-      year: 2017
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
     
     
 
