@@ -1,6 +1,6 @@
 ---
-title: LSE-GV225 (Prof. Torun Dewan)
-summary: An example of using the in-built project page.
+title: LSE - GV225 (Prof. Torun Dewan)
+summary: Second year undegraduate introduction to Game Theory and its applications to Political Science. 
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
