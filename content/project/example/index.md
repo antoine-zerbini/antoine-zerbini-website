@@ -1,22 +1,18 @@
 ---
-title: Public Choice (LSE, GV225)
+title: LSE GV225: [Public Choice](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2020_GV225.htm) (Prof. Torun Dewan)
 summary: 2nd year undergraduate course (full year unit) introducing students to Game Theory and its applications to Political Economy.
-tags:
-- Deep Learning
+
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2020_GV225.htm"
 
 #image:
  # caption: Photo by rawpixel on Unsplash
  # focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
