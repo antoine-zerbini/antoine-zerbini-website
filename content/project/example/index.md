@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Public Choice (LSE, GV225)
+summary: 2nd year undergraduate course (full year unit) introducing students to Game Theory and its applications to Political Economy.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -8,9 +8,9 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+#image:
+ # caption: Photo by rawpixel on Unsplash
+ # focal_point: Smart
 
 links:
 - icon: twitter
