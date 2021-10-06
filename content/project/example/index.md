@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: LSE-GV225 (Prof. Torun Dewan)
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
