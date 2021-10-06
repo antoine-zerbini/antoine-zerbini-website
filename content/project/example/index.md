@@ -5,9 +5,7 @@
 
 ---
 title: LSE GV225: Public Choice (Prof. Torun Dewan)
-summary: 2nd year undergraduate course (full year unit) introducing students to Game Theory and its applications to Political Economy.
----
-
+summary: An example of using the in-built project page.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -35,7 +33,6 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
-
 ---
 
 Lorem 
