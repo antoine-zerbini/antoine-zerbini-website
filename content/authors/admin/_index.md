@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Antoine Zerbini
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: London School of Economics and Political Science
+  url: https://www.lse.ac.uk/government
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Formal Theory, Political Economy and Causal
+  Inference.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Formal Theory
+  - Political Economy
 
 # Education to show in About widget
 education:
@@ -70,8 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 3rd-year PhD student in Political Science at the [London School of Economics and Political Science](https://www.lse.ac.uk/government). I use formal theory to study Political Economy. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+More specifically, using models of Political Agency and Lobbying, I consider how transparency regulations and voter’s rationality influence the behaviour of politicians and special interest groups.
+
+From September 2021 to June 2022 I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
