@@ -79,4 +79,6 @@ More specifically, using models of Political Agency and Lobbying, I consider how
 
 From September 2021 to June 2022 I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
 
-{{< icon name="download" pack="fas" >}} Download my [CV](https://www.dropbox.com/s/g064s1ldubc2zqa/CV_Academia.pdf?dl=0) #{{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my [CV](https://www.dropbox.com/s/g064s1ldubc2zqa/CV_Academia.pdf?dl=0) 
+#{{< staticref "uploads/demo_resume.pdf" "newtab" >}}
+#resumé{{< /staticref >}}.
