@@ -24,7 +24,6 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
   - course: PhD in Political Science 
     institution: [London School of Economics and Political Science](https://www.lse.ac.uk/government)
     year: 2019-2024
