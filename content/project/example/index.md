@@ -4,18 +4,18 @@ summary: 2nd year undergraduate course (full year unit) introducing students to 
 
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2020_GV225.htm"
+# external_link: "https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2020_GV225.htm"
 
-#image:
+# image:
  # caption: Photo by rawpixel on Unsplash
  # focal_point: Smart
 
 links:
-- url: 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# - url: 
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+#  url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
