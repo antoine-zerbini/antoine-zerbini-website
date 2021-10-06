@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: CV
-    url: '#talks'
+    url: https://www.dropbox.com/s/g064s1ldubc2zqa/CV_Academia.pdf?dl=0
     weight: 40
   - name: Publications
     url: '#featured'
