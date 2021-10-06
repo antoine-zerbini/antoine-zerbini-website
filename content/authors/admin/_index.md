@@ -34,7 +34,7 @@ education:
     link: https://www.lse.ac.uk/government
     year: 2018
   - course: BSc in Economics and Statistics
-    institution: University College London
+    institution: University College London <a href="https://www.lse.ac.uk/government"></a> 
     year: 2017
     
     
