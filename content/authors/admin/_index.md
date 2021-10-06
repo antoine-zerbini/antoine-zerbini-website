@@ -27,7 +27,7 @@ education:
   courses:
    - course: PhD in Political Science
       institution: London School of Economics and Political Science
-      link: https://www.lse.ac.uk/government
+      url: https://www.lse.ac.uk/government
       year: 2019 - 2024
     - course: MSc Political Science and Political Economy
       institution: London School of Economics and Political Science
