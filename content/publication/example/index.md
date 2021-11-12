@@ -1,5 +1,5 @@
 ---
-title: "The Case for Lobbying Disclosure: Political Agency with Persuasion"
+title: "Political Agency With Persuasion: The Case for Lobbying Disclosure"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
