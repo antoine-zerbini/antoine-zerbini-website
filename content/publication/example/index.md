@@ -29,10 +29,9 @@ publication_types: ["3"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: Concerns about the influence interest groups wield on policy-making has voters, activists and pundits alike demand more transparency vis-a-vis both policy-making and lobbying per se, while  lobbying transparency regulations are either passed or being discussed. I consider under which conditions and through which mechanisms lobbying transparency can benefit voters. When a politician's career and policy concerns align (high policy transparency) lobbying transparency requirements have no bite. When these motives clash and generate a distortion - namely pandering  - lobbying transparency induces better policy-making. 
+abstract: Concerns about the influence interest groups wield on policy-making has voters, activists and pundits alike demand more transparency vis-a-vis both policy-making and lobbying per se, while  lobbying transparency regulations are either passed or being discussed. I consider under which conditions and through which mechanisms lobbying transparency can benefit voters. When a politician's career and policy concerns align (high policy transparency) lobbying transparency requirements have no bite. When these motives clash and generate a distortion - namely pandering  - lobbying transparency induces better policy-making. Rather than improving the quality of influence, lobbying transparency helps voters either (i) better discipline their politicians, by reducing pandering or (ii) ensure more information transmission from special interest groups: influence is more likely to occur with lobbying transparency than without. 
 
-
-# Rather than improving the quality of influence, lobbying transparency helps voters either (i) better discipline their politicians, by reducing pandering or (ii) ensure more information transmission from special interest groups: influence is more likely to occur with lobbying transparency than without. Yet selection may be harder with more stringent lobbying transparency standards. The effect of policy transparency is highly non-monotonic and dependent on lobbying transparency. 
+# Yet selection may be harder with more stringent lobbying transparency standards. The effect of policy transparency is highly non-monotonic and dependent on lobbying transparency. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
