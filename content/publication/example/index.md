@@ -1,5 +1,5 @@
 ---
-title: "Political Agency With Persuasion: The Case for Lobbying Disclosure"
+title: "The Case for Lobbying Transparency"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-10-05T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ publication_types: ["3"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: Citizens worry about the influence of interest groups in politics and demand more transparency vis-a-vis policy-making and lobbying per se. I provide a model of informational lobbying with political agency and test under what conditions and through which mechanisms lobbying transparency operates. If policy-making is sufficiently transparent to begin with, lobbying disclosure requirements have no bite. If not, lobbying disclosure requirements (i) improve voters' ability to control their elected officials thus reducing the extent of pandering, (ii) induce information transmission by SIGs that would have otherwise not engaged in influence and (iii) generally induce better selection of politicians via elections. The effect of policy transparency on welfare is non-monotonic and highly dependent on lobbying transparency. As pandering incentives disappear, influence is made easier and the quality of policy-making worsens. Results are robust to voters being non-Bayesians as long as one intuitive condition holds.
+abstract: Concerns about the influence interest groups wield on policy-making has voters, activists and pundits alike demand more transparency vis-a-vis both policy-making and lobbying per se, while  lobbying transparency regulations are either passed or being discussed. I consider under which conditions and through which mechanisms lobbying transparency can benefit voters. When a politician's career and policy concerns align (high policy transparency) lobbying transparency requirements have no bite. When these motives clash and generate a distortion - namely pandering  - lobbying transparency induces better policy-making. Rather than improving the quality of influence, lobbying transparency helps voters either (i) better discipline their politicians, by reducing pandering or (ii) ensure more information transmission from special interest groups: influence is more likely to occur with lobbying transparency than without. Yet selection may be harder with more stringent lobbying transparency standards. The effect of policy transparency is highly non-monotonic and dependent on lobbying transparency. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
