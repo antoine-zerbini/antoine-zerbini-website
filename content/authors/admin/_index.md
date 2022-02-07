@@ -76,8 +76,6 @@ highlight_name: true
 
 I am a 3rd-year PhD student in Political Science at the [London School of Economics and Political Science](https://www.lse.ac.uk/government). I use formal theory to study Political Economy. 
 
-More specifically, using models of Political Agency and Lobbying, I consider how transparency regulations and voter’s rationality influence the behaviour of politicians and special interest groups.
-
 From September 2021 to June 2022 I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
 
 {{< icon name="download" pack="fas" >}} Download my [CV](https://www.dropbox.com/s/g064s1ldubc2zqa/CV_Academia.pdf?dl=0) 
