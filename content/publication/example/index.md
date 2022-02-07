@@ -29,11 +29,7 @@ publication_types: ["3"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: In response to voters' demands to reduce interest groups influence, many countries have passed or are currently considering implementing transparency regulations on the activities of lobbyists. But what is the impact of these laws?
-To study this question, I add a lobbying stage to a canonical model of political agency. 
-I show that the need for lobbying transparency is rooted in the clashing motivations of the politicians, rather than in the interest group influence intention. The effect of lobbying and policy transparency are closely intertwined. 
-The impact of greater lobbying transparency is null when politicians already behave in the voters' interests (when policy transparency is high).
-When electoral incentives lead politicians to pander (when policy transparency is low), lobbying helps voters (i) better discipline their politicians by reducing pandering and (ii) ensure the transmission of more truthful information from interest groups. While voters and special interest groups benefit from lobbying transparency, elected politicians need not.
+abstract: In response to voters' demands to reduce interest groups influence, many countries have passed or are currently considering implementing transparency regulations on the activities of lobbyists. But what is the impact of these laws? To study this question, I add a lobbying stage to a canonical model of political agency.  I show that the need for lobbying transparency is rooted in the clashing motivations of the politicians, rather than in the interest group influence intention. The effect of lobbying and policy transparency are closely intertwined.  The impact of greater lobbying transparency is null when politicians already behave in the voters' interests (when policy transparency is high). When electoral incentives lead politicians to pander (when policy transparency is low), lobbying helps voters (i) better discipline their politicians by reducing pandering and (ii) ensure the transmission of more truthful information from interest groups. While voters and special interest groups benefit from lobbying transparency, elected politicians need not.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
