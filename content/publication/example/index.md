@@ -39,10 +39,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-links:
- - name: PDF
-   url: https://www.dropbox.com/s/txm6aq931ipolr6/TCFLT_17032022.pdf?dl=0
+# Custom links (uncomment the 3 lines below)
+# links:
+# - name: Appendix
+#   url: https://www.dropbox.com/s/txm6aq931ipolr6/TCFLT_17032022.pdf?dl=0
 
 url_pdf: 'https://www.dropbox.com/s/txm6aq931ipolr6/TCFLT_17032022.pdf?dl=0'
 # url_code: ''
