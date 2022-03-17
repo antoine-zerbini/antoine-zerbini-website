@@ -13,11 +13,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-01-01T00:00:00Z"
+date: "2022-03-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-05T00:00:00Z"
+# publishDate: "2021-10-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +30,7 @@ publication_types: ["3"]
 # publication_short: In *ICW*
 
 abstract: In response to voters' demands to reduce interest groups' influence over policy-making, many countries have passed or are currently considering implementing transparency regulations on the activities of lobbyists. What is the impact of these laws? To study this question, I add a lobbying stage to a canonical model of political agency. I show that the need for lobbying transparency is rooted in the pandering incentives of politicians rather than in the risk of influence by interest groups. The impact of greater lobbying transparency is null when politicians already behave in the voters' interests.
-When electoral incentives lead politicians to pander, lobbying helps voters (i) better discipline their politicians by reducing pandering and (ii) ensure the transmission of more truthful information from interest groups. While voters and special interest groups benefit from lobbying transparency, elected politicians need not. Voters and special interest groups benefit from lobbying transparency regulations. The same need not always hold for politicians.
-The theoretical framework also has implications for the design of empirical research on this topic.
+# When electoral incentives lead politicians to pander, lobbying helps voters (i) better discipline their politicians by reducing pandering and (ii) ensure the transmission of more truthful information from interest groups. While voters and special interest groups benefit from lobbying transparency, elected politicians need not. Voters and special interest groups benefit from lobbying transparency regulations. The same need not always hold for politicians. The theoretical framework also has implications for the design of empirical research on this topic.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
