@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: PDF
+   url: https://www.dropbox.com/s/txm6aq931ipolr6/TCFLT_17032022.pdf?dl=0
 
 # url_pdf: ''
 url_code: ''
