@@ -44,14 +44,14 @@ links:
  - name: PDF
    url: https://www.dropbox.com/s/txm6aq931ipolr6/TCFLT_17032022.pdf?dl=0
 
-# url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: 'https://www.dropbox.com/s/txm6aq931ipolr6/TCFLT_17032022.pdf?dl=0'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
