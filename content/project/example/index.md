@@ -5,9 +5,6 @@ summary: Second year undegraduate introduction to Game Theory and its applicatio
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
 
-title: LSE EC260
-
-
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
