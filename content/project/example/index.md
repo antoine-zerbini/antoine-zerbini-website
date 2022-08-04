@@ -5,6 +5,9 @@ summary: Second year undegraduate introduction to Game Theory and its applicatio
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
 
+title
+
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -28,10 +31,9 @@ external_link: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
----
 
 
----
+
 title: LSE - EC260 (Prof. Torun Dewan and Valentino Larcinese)
 summary: Summer school Political Economy. 
 # tags:
