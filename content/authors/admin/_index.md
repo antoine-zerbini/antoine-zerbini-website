@@ -76,5 +76,5 @@ highlight_name: true
 
 I am a PhD candidate in Political Science at the [London School of Economics and Political Science](https://www.lse.ac.uk/government). 
 
-{{< icon name="download" pack="fas" >}} Download my [CV](https://www.dropbox.com/s/w0w29qbrmmr0fnq/CV_Academia%20%281%29.pdf?dl=0) 
+{{< icon name="download" pack="fas" >}} Download my [CV](https://www.dropbox.com/s/2rhkfgtiv87hm8d/CV_Academia%20%281%29.pdf?dl=0) 
 
