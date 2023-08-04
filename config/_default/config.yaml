@@ -64,7 +64,9 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
+  author:
+    name: "Your Name"
+    avatar: "avatar.jpg
 markup:
   _merge: deep
 related:
