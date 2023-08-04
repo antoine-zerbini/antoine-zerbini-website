@@ -54,8 +54,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: 
-    avatar: "Antoine-Zerbini-v2.jpg/"
+  author: authors
 markup:
   _merge: deep
 related:
